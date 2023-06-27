@@ -1,0 +1,2560 @@
+{
+  "Sheet1": [
+    {
+      "NIS": 13463,
+      "NAMA": "DELINDA SYAFRILA YUNATA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13466,
+      "NAMA": "DEVIRA GEBY SAPUTRI",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13475,
+      "NAMA": "ELISABETH PUTRI KINANTHI NUSWANTARI",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13487,
+      "NAMA": "FARANOVA AULIA RIZKILAH",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13673,
+      "NAMA": "NYIMAS SHAFIRA FANIA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13706,
+      "NAMA": "REGITA CAHYANI PUTRI RAHARJA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13751,
+      "NAMA": "STEVANO TRISTAN MAKALEW",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13391,
+      "NAMA": "AMADEA AULIA FITRIANTY WIJAYA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13401,
+      "NAMA": "ANDI HANA DYAH ASMANINGRUM",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13438,
+      "NAMA": "BINTANG AULIA RAHMAN",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13474,
+      "NAMA": "ELANG MAULANA PUTRA SANTOSO",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13508,
+      "NAMA": "GADING LENTERA PANDU UTOMO",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13520,
+      "NAMA": "HAIFA ISHAQ",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13598,
+      "NAMA": "MOHAMMAD JAVIER JANITRA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13607,
+      "NAMA": "MUHAMMAD ARFILANDO LAUDI",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13456,
+      "NAMA": "DARA FERTANSYAH AN NIFARI",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13553,
+      "NAMA": "KAVITA DEWI LULU'IL FIRDA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13784,
+      "NAMA": "LEXA ABYAN KUSUMA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13642,
+      "NAMA": "NABYLLA ZASKIA PUTRI ARROSY",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13651,
+      "NAMA": "NAJWA ALIFIA RAHMA JAYANTI",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13774,
+      "NAMA": "ZAKIYA AKBAR NUR IZZA ",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13383,
+      "NAMA": "ALIYAH IZZATUL UFAIROH",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13389,
+      "NAMA": "ALYSIA AZMI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13573,
+      "NAMA": "LINGGA RESPATY",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13589,
+      "NAMA": "MISHEL KAYANA ASTADEWI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13612,
+      "NAMA": "MUHAMMAD GANEZA ADITYA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13657,
+      "NAMA": "NATASYA MAULIDIYA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13377,
+      "NAMA": "ALBERLISYA QOLBI SYAHARA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13405,
+      "NAMA": "ANGGIE AISYAH AYU BAGYA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13500,
+      "NAMA": "FIONA SALSABILA RAMADHANI",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13525,
+      "NAMA": "HIRLYAN AKMALANA RIZQULLAH ",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13542,
+      "NAMA": "JENNY HASTA EKA PUTRI",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13550,
+      "NAMA": "KALILA DINDA AMIRA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13561,
+      "NAMA": "KHAILLA MUTIA CINTA BAHTIAR",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13567,
+      "NAMA": "KRISNA NABIHAN AKBAR",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13613,
+      "NAMA": "MUHAMMAD ILHAM FIRMANSYAH IWANTRA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13628,
+      "NAMA": "MUHAMMAD ROYYAN FIRDAUS",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13728,
+      "NAMA": "SALSABILA HASANA PERDANA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13730,
+      "NAMA": "SALWA SABILLA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13762,
+      "NAMA": "TIRTA NIZAM",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13382,
+      "NAMA": "ALIYAH ARIFAH DYCHA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13414,
+      "NAMA": "ARRIELA AZZURA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13469,
+      "NAMA": "DHITA SYAWAL RIANTI",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13471,
+      "NAMA": "DIMAS HIBATULLAH RIZQI RAMADHAN",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13557,
+      "NAMA": "KENAN MUHAMMAD IMANTAKA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13630,
+      "NAMA": "MUHAMMAD WILDAN SATRIO SETIYAWAN",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13670,
+      "NAMA": "NUR AISYAH",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13683,
+      "NAMA": "QOLBY NADIN PUTRI NASUTION",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13742,
+      "NAMA": "SHAFIA BUNGA NAYRADINA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13759,
+      "NAMA": "TASYA HERDINNA ANGGUN",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13661,
+      "NAMA": "NAYLA QINTHARA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13775,
+      "NAMA": "ZAKIYAH FU'ADA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13395,
+      "NAMA": "AMELIA NUR FITRIYA",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13492,
+      "NAMA": "FARREL SAFI GAMANTA",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13543,
+      "NAMA": "JIBRILIAN AHMAD SASTRA HAKIM",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13552,
+      "NAMA": "KANIYA MARWA DEWI ",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13565,
+      "NAMA": "KINETA RESWARA",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13656,
+      "NAMA": "NASHITA ALIYA RACHMAN",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13659,
+      "NAMA": "NAURA SUGITA NURFAIZAH",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13674,
+      "NAMA": "PANDJI NANDA PRATAMA SUBIANTORO",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13676,
+      "NAMA": "PANJI WIRA DHARMA",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13699,
+      "NAMA": "RANIA NAURA ANINDYA",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13776,
+      "NAMA": "ZALFA NAJIHA SALAM",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13779,
+      "NAMA": "ZULHAYR REVO ANTOLY",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13370,
+      "NAMA": "AISHA SIDDIQA WARDHANA",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13404,
+      "NAMA": "ANGGA DWI APRILIAN",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13407,
+      "NAMA": "ANISAISTA BINAR HADIARTI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13417,
+      "NAMA": "ATHALLAH NAUFAL KUNCAHYO",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13559,
+      "NAMA": "KEYSHILA CLAVINOVA KINANTHI HANAYA PUTRI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13571,
+      "NAMA": "LAYUNG GALIH RESTI BUMI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13696,
+      "NAMA": "RAMADHANO NAUFAL BAIHAQI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13707,
+      "NAMA": "REIDINA LIANA",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13708,
+      "NAMA": "RENJANA ALANASARI GENDHIS MAHASA",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13725,
+      "NAMA": "SALMA APRILIA CANDRA ARDIANI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13738,
+      "NAMA": "SELLA DWI ARIANI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13766,
+      "NAMA": "UTITA SAHLA",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13783,
+      "NAMA": "VANIA MAHARANI PUTRI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13454,
+      "NAMA": "DAFFA BONAYA HERWINDO ",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13616,
+      "NAMA": "MUHAMMAD MEZHAR AZZAAMUL FIROOS",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13763,
+      "NAMA": "TRISKA ALYA RAMADHANI",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13411,
+      "NAMA": "ARJUNA HAPURSA TURA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13430,
+      "NAMA": "AZZAHRA NAJWA PARAMITHA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13450,
+      "NAMA": "CLARISSA AMANDA PUTRI",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13452,
+      "NAMA": "DAANYS QIFAYATUS CALLUELLA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13490,
+      "NAMA": "FARIZHA RIZKY INDRAWAN",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13539,
+      "NAMA": "JARED LOVELL MARSMILLIAN",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13555,
+      "NAMA": "KAYLA KIRANIA PRADITA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13739,
+      "NAMA": "SEVILLA SAVIOLA PUTRI BODRA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13760,
+      "NAMA": "TATA BILQIS AGATA WAFI",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13355,
+      "NAMA": "ACHMAD GHAZANFAR WIDYADANA FACHRURROZIE",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13363,
+      "NAMA": "AERO FERDINAND",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13396,
+      "NAMA": "AMIRAH DHIYA NAJMI",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13436,
+      "NAMA": "BIMA SURYA RAMADHANI",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13470,
+      "NAMA": "DIAH AULIA WULANDARI",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13477,
+      "NAMA": "ESTININGTYAS KUSUMA WARDANI ",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13480,
+      "NAMA": "FAATIA PINKAN CALLISTA ATHALIA MAHENDRA",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13523,
+      "NAMA": "HATTA AGUS SYAWALUDIN",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13541,
+      "NAMA": "JAVIER ITHAF RABBULIZAT",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13560,
+      "NAMA": "KEZIA PUTRI SABRINA",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13594,
+      "NAMA": "MOCHAMMAD ALIF ANDIRA",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13601,
+      "NAMA": "MUH. FACHRY JUNANTA HAMID",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13623,
+      "NAMA": "MUHAMMAD RAFID ADITYA WAHYUDI",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13624,
+      "NAMA": "MUHAMMAD RAFIF NAJWAN AZHIM",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13643,
+      "NAMA": "NADA AMALIA NAFISAH",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13685,
+      "NAMA": "RABBANI FATHIYA ZAHIRA MALIK",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13718,
+      "NAMA": "RIZQI ALANA NAUFAL HAIBATULLAH",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13761,
+      "NAMA": "TERESIA AMELLINA NUR RAHMA",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF A"
+    },
+    {
+      "NIS": 13554,
+      "NAMA": "KAYLA DINDA LATSAYA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13732,
+      "NAMA": "SATRIA DANU BAGASKARA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13705,
+      "NAMA": "REFALDY",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13745,
+      "NAMA": "SHELY MEISYA PUTRI CHOIRRUNNISA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13609,
+      "NAMA": "MUHAMMAD BINTANG PRATAMA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13538,
+      "NAMA": "JALES BINTANG RAMADHAN",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13692,
+      "NAMA": "RAFI DWI SURYA DINATA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13637,
+      "NAMA": "NABILA AUREL LUKMANSYAH",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13668,
+      "NAMA": "NOVA AMELLIA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13533,
+      "NAMA": "INTAN SALSABILA SYIFA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13482,
+      "NAMA": "FAIRUS DIAZ ZULKARNAIN",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13620,
+      "NAMA": "MUHAMMAD NAUFAL ARYANUGRAHA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13566,
+      "NAMA": "KIRANA PRAMESTHI WICAKSONO",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13591,
+      "NAMA": "MOCHAMAD FARREL ARYA PUTRA PRATAMA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13752,
+      "NAMA": "SYABILAH NUR AISYAH HARTIKA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13433,
+      "NAMA": "BARA ARIFIN ILHAM",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13748,
+      "NAMA": "SINTA MAULIDINA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13439,
+      "NAMA": "CAESAR SENJA DWI PRAVINAS",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13767,
+      "NAMA": "VINKA NUR APRILIANTI",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13611,
+      "NAMA": "MUHAMMAD FAREL MIRZA SARIPUDIN",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13562,
+      "NAMA": "KHALISA RIFKI ANSAKI",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13675,
+      "NAMA": "PANJI ARIYA FIRDAUS",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13448,
+      "NAMA": "CINDY PUTRI PRIHATINI",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13376,
+      "NAMA": "ALAMANDA MUTIARA DEALOVA",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13496,
+      "NAMA": "FAZLE MAWLA FEBRIO RHIZKY",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13449,
+      "NAMA": "CITRA NANDA MARSELA PUTRI",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13432,
+      "NAMA": "BAGUS TRISETIA NOUVALINO",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13505,
+      "NAMA": "GABRIEL AD GUSTI IMEA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13750,
+      "NAMA": "STEVAN MARVIN",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13551,
+      "NAMA": "KANAYA NASTITI ASYER PURNAMA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13379,
+      "NAMA": "ALEXANDRA EDGINA PUTRI SOESANTO",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13778,
+      "NAMA": "ZAXICA NADZULA EAGANICE",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13366,
+      "NAMA": "AGHIL CHRISTIAN IRWANSYA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF B"
+    },
+    {
+      "NIS": 13442,
+      "NAMA": "CANDRADIAN ARYA SRIWIJAYA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13741,
+      "NAMA": "SHAFA TALITHA SASIKIRANA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13721,
+      "NAMA": "ROZZAN RABBANI",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13580,
+      "NAMA": "MALIKA GHAIDA ALTHAFUNNISA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13437,
+      "NAMA": "BINAR BINTANG MAKARA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13665,
+      "NAMA": "NI KETUT NISHA WULAN SAVITRI",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13574,
+      "NAMA": "LUH PUTU KEYZAHRA QUEENANTY NAZNIINA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13692,
+      "NAMA": "RAFI DWI SURYA DINATA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13768,
+      "NAMA": "VIOLITA CORINA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13440,
+      "NAMA": "CAHYA MEIDINA AYU YASMIN PUSPARANTI",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13394,
+      "NAMA": "AMELIA NAILAH ANJANI",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13626,
+      "NAMA": "MUHAMMAD RAIHAN RADITYA GHANI",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13671,
+      "NAMA": "NURUL 'AIN ADITYA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13388,
+      "NAMA": "ALYA NADHIIFAH MAARIF",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13769,
+      "NAMA": "VIRDIAN IHTISYAM PAHLEVI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13691,
+      "NAMA": "RADO PUTRA YUSTISIAWAN",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13645,
+      "NAMA": "NADYA ASTI APRILIA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13610,
+      "NAMA": "MUHAMMAD FAKHRII ZAIN DAFFAA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13530,
+      "NAMA": "INGGIL MEINIA NUR ROHMAH",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13572,
+      "NAMA": "LEONY TIARSA ALIFIA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13365,
+      "NAMA": "AFIF FAUSTA PASHA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13419,
+      "NAMA": "AULIA NAILATUR RAHMAH",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13435,
+      "NAMA": "BILQIS AUFIYA RASYID",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13367,
+      "NAMA": "AHMAD AFFARIZKY",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13653,
+      "NAMA": "NARA DIRA PUTRI DYANDRI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13518,
+      "NAMA": "HADAF BALIGHUL MA'ANI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13770,
+      "NAMA": "VITA INDRIANI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13605,
+      "NAMA": "MUHAMMAD ALMER SAVERO",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13641,
+      "NAMA": "NABILA ZAKIRA PUTRI ADIWIBOWO",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13465,
+      "NAMA": "DESMINICA MAHARANI SIREGAR",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13402,
+      "NAMA": "ANDREAS PRIYO WIDIANTORO",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13444,
+      "NAMA": "CHANDELLA ESTETIA AMARIS",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13374,
+      "NAMA": "AKHMAD RAZZAN RASYID",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13458,
+      "NAMA": "DAVINA MAKAYLA INAIRA WIJAYA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13650,
+      "NAMA": "NAJMA RAHMADINA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13638,
+      "NAMA": "NABILA DWI NUR ROCHMAD",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF C"
+    },
+    {
+      "NIS": 13380,
+      "NAMA": "ALFAIZY DHIMAS RIZKY WIDJAJANTO",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13446,
+      "NAMA": "CHRISTIAN DIMAS FEBRIAN",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13509,
+      "NAMA": "GALANG QALBU ATHALLAH BORUT",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13578,
+      "NAMA": "M. RIZKI PAHLEVI",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13368,
+      "NAMA": "AHMAD FAJRIANSYAH FAIRUZZENNA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13686,
+      "NAMA": "RACHMA NADIA LAILINA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13527,
+      "NAMA": "ILHAM FIRMAN HIDAYAT",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13544,
+      "NAMA": "JIMI IKSAN FIRMANSYAH",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13717,
+      "NAMA": "RIZKY ARUM PAMUNGKAS",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13733,
+      "NAMA": "SATRIA DHANESWARA ARISTO KURNIAWAN",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13406,
+      "NAMA": "ANINDYA VITA RACHMA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13640,
+      "NAMA": "NABILA RAHMADIANSYAH",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13512,
+      "NAMA": "GHALIB ALLAMSYAH MUHAMMAD PRASETYA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13603,
+      "NAMA": "MUHAMMAD ALFIN MUBAROK",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13617,
+      "NAMA": "MUHAMMAD NAFI BRIANO ELGIFTO",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13672,
+      "NAMA": "NUURIN WIDAYADJATI MARDIKINATA MAHAESA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13749,
+      "NAMA": "SITI NURHANI SASKIA PUTRI",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13765,
+      "NAMA": "TYAGA HIJRAH KATILU",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13764,
+      "NAMA": "TSABITAH ZAHRA FIRDAUS",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13473,
+      "NAMA": "DONNY BAGOES FIRMANSYAH",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13486,
+      "NAMA": "FANDI ACHMAD",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13599,
+      "NAMA": "MOHAMMAD RIZKY ARI SETYAWAN",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13524,
+      "NAMA": "HINDIRA NURCAHYANI",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13357,
+      "NAMA": "ACHMAD ZIYAUDDIN",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13501,
+      "NAMA": "FIRDANIA SALSABILA KIRANA",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13729,
+      "NAMA": "SALSABILLA NAZIQAH PUTRI",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13758,
+      "NAMA": "TALITHA APTA KENAR LOKATI",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13408,
+      "NAMA": "ANNISA RAMADHANI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13497,
+      "NAMA": "FAZLI ZUKASANIE",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13462,
+      "NAMA": "DEKA GHANIY PRATAMA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13511,
+      "NAMA": "GELORA BUMI NUSANTARA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13704,
+      "NAMA": "RAYYA LENTERA NANDIKA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13460,
+      "NAMA": "DEBA ALYA GHAITSA MASUA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13425,
+      "NAMA": "AYU RIZQIA PRAMITA YAHYA",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13537,
+      "NAMA": "IZDIHAR LUHUNG ABHIPRAYA",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF D"
+    },
+    {
+      "NIS": 13459,
+      "NAMA": "DEA PUTRI AMILIYAH",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13614,
+      "NAMA": "MUHAMMAD IQBAL FARHANSYAH",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13711,
+      "NAMA": "RHIZARO OSYAHIRA SENANDUNGHATI",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13786,
+      "NAMA": "RIZKY MUHAMAD JALLA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13735,
+      "NAMA": "SAVA FAISHAL RIFQI",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13772,
+      "NAMA": "YOANES DE BRITTO ANTHONY AKSAMA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13443,
+      "NAMA": "CARISSA AUREGA ZUHRAH",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13484,
+      "NAMA": "FAIZA AYU AZZAHRA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13535,
+      "NAMA": "ISMANDA FELISA CLEARANCE ABDULLAH",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13577,
+      "NAMA": "M. RADYANKA ADIBY",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13604,
+      "NAMA": "MUHAMMAD ALIM AZZAMUL ILMI",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13667,
+      "NAMA": "NIMAS KHAYLA CAHAYA PALUPI",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13720,
+      "NAMA": "ROBBYATI BAIANO JUNIOR",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13737,
+      "NAMA": "SEKAR AYU PUTRI IRAWAN",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13399,
+      "NAMA": "ANARGYA AKBAR PRATAMA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13453,
+      "NAMA": "DAFFA ANNAURA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13481,
+      "NAMA": "FAHIM ZHAFAR SANTOSO",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13491,
+      "NAMA": "FARREL ARTEYA KUMARA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13547,
+      "NAMA": "JUANATO PUTRA AGUNG ARYANTO",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13558,
+      "NAMA": "KENDRA SYACHRIFFUDIN",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13689,
+      "NAMA": "RADITYA DWI WIRYAWAN",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13712,
+      "NAMA": "RIAN FIRMANSYAH",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13424,
+      "NAMA": "AYDAN MIFTAKHUR ROSYADI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13579,
+      "NAMA": "M. THORIQ DAVIAN AL QUDSI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13615,
+      "NAMA": "MUHAMMAD KINARAYA WIRA ATMAJA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13785,
+      "NAMA": "MUHAMMAD RIZAL PRASETYA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13700,
+      "NAMA": "RANIA PUTRI ARDIYANTI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13710,
+      "NAMA": "RHENANTHA PRADITYA ANGGRIAWAN",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13715,
+      "NAMA": "RIZAL HAFIDH",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13373,
+      "NAMA": "AKBAR ARIFFIANTO",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13593,
+      "NAMA": "MOCHAMAD TIRTA ARIDHO",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13688,
+      "NAMA": "RADITYA BRIAN ARYOPRIYONO",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13385,
+      "NAMA": "ALTHOF RAHMATULLAH",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13529,
+      "NAMA": "INDRA KURNIAWAN",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13625,
+      "NAMA": "MUHAMMAD RAFLI MAULANA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13655,
+      "NAMA": "NARINA VEDA ZIAURA DAKHLAN",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13423,
+      "NAMA": "AXELLE ANANDA BETA PERDANA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13426,
+      "NAMA": "AZHARI RAHMA PUTRI",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13499,
+      "NAMA": "FIKARUL AKMAL JADID",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13502,
+      "NAMA": "FIRSTITO RAYHAN DAVINO",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13519,
+      "NAMA": "HAFIZHA MUTHIA INAS NAIYIRA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13569,
+      "NAMA": "LANGIT WIJAYA GERIPUTRA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13629,
+      "NAMA": "MUHAMMAD SYAIFULLOH AL AMIN",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13654,
+      "NAMA": "NARENDRA AHMAD AL DHARDA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13679,
+      "NAMA": "PRISCA SHAFINA WIDIYARTA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13684,
+      "NAMA": "QOUWY AR'RAUKHILLA KOESMANTO",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13714,
+      "NAMA": "RISYAD IHSANUL AKMAL",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13724,
+      "NAMA": "SALLYAZMI QURATA A'YUN",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13369,
+      "NAMA": "AHMAD FARREL HIDAYAT",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13493,
+      "NAMA": "FARRELL REYHANSYAH ARFIANTO",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13602,
+      "NAMA": "MUHAMMAD AKBAR RAZZAQ",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13632,
+      "NAMA": "MUSA ATHAYA HAQQI ",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13464,
+      "NAMA": "DENIZAR ZACHARY DANUARGO",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13503,
+      "NAMA": "FIRSTO AL KAUTSAR JAGAD KURNIAJI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13631,
+      "NAMA": "MUHAMMAD YASRIL IJTIHADI AKBAR",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13362,
+      "NAMA": "ADITYA FAJAR KUSUMA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13447,
+      "NAMA": "CHRISTIAN GALVIN SAPUTRA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13504,
+      "NAMA": "FRITZ GIOVANNI PAEMBONAN SEPANG",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13516,
+      "NAMA": "GRACE NAULI MARTHA SERANG",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13536,
+      "NAMA": "IVANA IMMANUELA ANINDITA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13639,
+      "NAMA": "NABILA DWI PUTRI ARISNI",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13652,
+      "NAMA": "NANDANA YORI ADIYATMA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13678,
+      "NAMA": "POBI PUTRA ANUGRAH",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13773,
+      "NAMA": "ZAHRA AYUNING HAKIM",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13409,
+      "NAMA": "ARDANSYAH RAIHAN SEPTRISTANO",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13596,
+      "NAMA": "MOCHAMMAD RAFI FADHLURROHMAN",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13622,
+      "NAMA": "MUHAMMAD NAUFAL SYAHPUTRA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13693,
+      "NAMA": "RAIHAN MAULANA RIFQI",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13381,
+      "NAMA": "ALFAN NAILUR RAJA",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13556,
+      "NAMA": "KEMAS MOCHAMMAD RAFINDA PAHLEVI",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13635,
+      "NAMA": "MYESHIA MEHRUNISA PRATYASANTO",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13719,
+      "NAMA": "RIZWAN RAMADHAN",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF E"
+    },
+    {
+      "NIS": 13428,
+      "NAMA": "AZRIEL MUFASA ABDILLAH",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13498,
+      "NAMA": "FIDELIS SATYA RICKY ARDHYANTARA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13581,
+      "NAMA": "MARCELLINA GALUH SAWITRI PRADNYAMERETA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13608,
+      "NAMA": "MUHAMMAD AZFAR BELLAMY",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13698,
+      "NAMA": "RANIA FLORENCIA ARIF",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13359,
+      "NAMA": "ADIMAS TRIO BINTANG PAMUNGKAS ",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13418,
+      "NAMA": "AUFA JASMINE NISA'",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13431,
+      "NAMA": "BAGUS ALDYSTO",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13575,
+      "NAMA": "LUPITA APTA RAHMADHANI",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13576,
+      "NAMA": "LUTHFIYYAH RAMADHINA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13595,
+      "NAMA": "MOCHAMMAD ANDYKA RASYA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13723,
+      "NAMA": "SABRINA MAHATMA DEWI",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13412,
+      "NAMA": "ARMUDHI ARISYANDI",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13570,
+      "NAMA": "LATASYA DIVCA AQUIRELL",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13586,
+      "NAMA": "MELATI KURNIA ARHANI",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13621,
+      "NAMA": "MUHAMMAD NAUFAL RAHMAD RAMADHAN",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13713,
+      "NAMA": "RIMBA ASYAFAR BINGESTI",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13753,
+      "NAMA": "SYAHLA SYAFIAH",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13360,
+      "NAMA": "ADITYA BAYU YULIAWAN",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13507,
+      "NAMA": "GADING ARIYO CAESAR PUTRA PRAYOGI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13528,
+      "NAMA": "ILMI FADHILAH TUALEKA AC",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13534,
+      "NAMA": "ISHYLA NENA SYAWALLIN",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13540,
+      "NAMA": "JASMINE MAY",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13600,
+      "NAMA": "MUCHAMAD RIZQY ALVAHRUZA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13627,
+      "NAMA": "MUHAMMAD RAJIV KHAN ALSYA PUTRA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13734,
+      "NAMA": "SATYA PRAWIRATAMA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13740,
+      "NAMA": "SHABRINA DIAH LESTARI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13420,
+      "NAMA": "AUREL MERUIVY",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13694,
+      "NAMA": "RAINA QUINNCY KEYIZZA AZZAHRA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13413,
+      "NAMA": "ARNELITA AQILA NOUVARIYADI",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13445,
+      "NAMA": "CHELSEA AURELIA ATMARA ",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13514,
+      "NAMA": "GILANG AHMAD FAJAR",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13131,
+      "NAMA": "KHANSA RIZQULLAH ",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13662,
+      "NAMA": "NAYLA ZAHRA IZZATI PURNOMO",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13716,
+      "NAMA": "RIZKY ACHMAD RIZAL",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13455,
+      "NAMA": "DAFFA WISASTRANAWA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13457,
+      "NAMA": "DAVINA IMANDA RIZKY",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13468,
+      "NAMA": "DHANIAR AZZAHRA MASITHA ALFIYANSYAH",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13485,
+      "NAMA": "FALEYN AZKAZIZAH",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13488,
+      "NAMA": "FAREL ISLAMY PASHA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13494,
+      "NAMA": "FATAN MUMTAZ RAMADHANA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13531,
+      "NAMA": "INTAN ASMAUL HUSNA MAULINA APRILIA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13606,
+      "NAMA": "MUHAMMAD ANDRI NUR SETIAWAN",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13755,
+      "NAMA": "SYAHRAN NABILA SASKIA SOCHIB",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13757,
+      "NAMA": "SYANAR YUMARAMSYA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13387,
+      "NAMA": "ALYA HANNA VAIDISOVA SUSANTI",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13416,
+      "NAMA": "AS'AD ZAIDAN PUTRA MASFADIL",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13483,
+      "NAMA": "FAISAL SEPTIAWAN NUGROHO",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13515,
+      "NAMA": "GLADIS PERMITA DEWI",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13564,
+      "NAMA": "KINANTHI ELMIRA PUTRI",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13582,
+      "NAMA": "MARCELLYA RAHMAWATI",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13663,
+      "NAMA": "NEHAN RAFI ANARTA",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13354,
+      "NAMA": "ABRIANO NIBRAS KAVIANTO",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13736,
+      "NAMA": "SEKAR AYU NAGAYA",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13364,
+      "NAMA": "AFANIN ALTHAF",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13393,
+      "NAMA": "AMELIA KRISTINA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13597,
+      "NAMA": "MOCHAMMAD REYHAN ARIYANTO",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13647,
+      "NAMA": "NADYA RAFANONI SETIAWAN",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13648,
+      "NAMA": "NAILA KEYSHA PRADITA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13666,
+      "NAMA": "NIELSHA NATHAKANYA RENATA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13588,
+      "NAMA": "MIRACLE CALISTA FILLIA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13682,
+      "NAMA": "QALBITA NURAHMA SINGGIH",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13743,
+      "NAMA": "SHAFIRA HANA MARITZA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13361,
+      "NAMA": "ADITYA CAHYA RAHMAWAN",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13403,
+      "NAMA": "ANDROMEDA NURUL PUSPITA",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13441,
+      "NAMA": "CALYA ALUNA INDIANTORO",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13517,
+      "NAMA": "HABIBA AMBARIN YASMIN PUTRI ZARDY",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13568,
+      "NAMA": "LAILATUS SALAMAH",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13690,
+      "NAMA": "RADITYA PRAMAWA SUDIRA SUBIANTORO",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13756,
+      "NAMA": "SYALWAH ILMIAH NADIFAH",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13702,
+      "NAMA": "RAYHAN NAUFAL ZAKI ABIDIN",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF F"
+    },
+    {
+      "NIS": 13384,
+      "NAMA": "ALLEGRA GABRIEL AKWILA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13506,
+      "NAMA": "GABRIELA FERINA OPOT",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13634,
+      "NAMA": "MUTIARA PUTRI CANTIKA",
+      "KELAS": "X-1",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13372,
+      "NAMA": "AISYAH INSAN SHAFIRA AZZAHRA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13461,
+      "NAMA": "DEBORA YUNIARTI SETIANINGSIH",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13532,
+      "NAMA": "INTAN CAHYANI",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13703,
+      "NAMA": "RAYNOR ERLANDO NAYOTTAMA",
+      "KELAS": "X-10",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13495,
+      "NAMA": "FAYLA CALULLA AZALEA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13526,
+      "NAMA": "HOLLY MANNA FENESIA PATTY",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13664,
+      "NAMA": "NESHA LAURA SYAFIRA",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13754,
+      "NAMA": "SYAHLU NISMARA WASKITO",
+      "KELAS": "X-11",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13644,
+      "NAMA": "NADINE FELISYA ANDHIRA PUTRI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13677,
+      "NAMA": "PINKA ISDHALIYANA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13695,
+      "NAMA": "RAISSA RAMADHANI MAHENDRA PUTRI",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13709,
+      "NAMA": "RENSHI REVALINA FARSHA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13747,
+      "NAMA": "SHOFIYAH ESSA FEBRIANA",
+      "KELAS": "X-12",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13375,
+      "NAMA": "AL MIDO BARUMALANG",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13390,
+      "NAMA": "ALYSIA SALSABILA RYANI",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13513,
+      "NAMA": "GHAYANTI ANASTHASIA AZZAHRA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13618,
+      "NAMA": "MUHAMMAD NAFIL ARRASYID",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13646,
+      "NAMA": "NADYA DWI PUSPITA",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13669,
+      "NAMA": "NOVITA DWI LESTARI ANGGRAENI",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13727,
+      "NAMA": "SALSA RAZHAN ISLAMY AMALLIA PUTRI",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13731,
+      "NAMA": "SANDY AULIA PRATIWI",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13358,
+      "NAMA": "ADANINGGAR KIANA NUGROHO",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13400,
+      "NAMA": "ANDI AMILAH SASKIA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13410,
+      "NAMA": "ARDELIA BELVA NUGERAHA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13415,
+      "NAMA": "ARYO SATYARADJASA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13429,
+      "NAMA": "AZ-ZAHRA AL-AURA PUTRI SANTOSO",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13521,
+      "NAMA": "HAJARYAN SAHIDA",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13701,
+      "NAMA": "RASYA ADRIANS FAHLEVI",
+      "KELAS": "X-3",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13467,
+      "NAMA": "DEWI LESTARI",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13563,
+      "NAMA": "KHANNA THERESIA ARMY SUTRISNA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13585,
+      "NAMA": "MARSHA REVANIA",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13681,
+      "NAMA": "PUTRI RAMADANI",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13777,
+      "NAMA": "ZASKIA IMANIA PUTRI",
+      "KELAS": "X-4",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13397,
+      "NAMA": "ANABELLA MIRANDA PUTRI WIBOWO",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13472,
+      "NAMA": "DINDA KIRANA WIBOWO",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13479,
+      "NAMA": "EYNOV ROSS",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13489,
+      "NAMA": "FARELYNO CHRISNA IBRAHIMOVIC",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13619,
+      "NAMA": "MUHAMMAD NAUFAL AL GHIFARI ",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13636,
+      "NAMA": "NABILA ARRAYAN",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13722,
+      "NAMA": "SABINA DIKA PRAWIRA PUTRI",
+      "KELAS": "X-5",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13378,
+      "NAMA": "ALDIEN TRISTANO GIOVAN IKSIR",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13427,
+      "NAMA": "AZIZAH NUR ZAKIYYAH",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13434,
+      "NAMA": "BELLA PUSPITA RAMADHANI ",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13451,
+      "NAMA": "CLAUDIA AMELIA SAFITRI",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13510,
+      "NAMA": "GANIS NUR HANIFFAH",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13522,
+      "NAMA": "HANDIKA PRATAMA PUTRA",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13660,
+      "NAMA": "NAYLA HANNA SAJIDAH",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13680,
+      "NAMA": "PUTRA SUNINGGAR ISWANDONO",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13687,
+      "NAMA": "RADITIYA SETYADI NUGRAHA",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13744,
+      "NAMA": "SHANDY WIJAYA HERAVIAN",
+      "KELAS": "X-6",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13398,
+      "NAMA": "ANANDA REYVA FELISSA MATANIARI",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13421,
+      "NAMA": "AURELLIA ARTANTI PUTRI",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13476,
+      "NAMA": "ELIZABETH ANNIE PATTIWAEL",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13478,
+      "NAMA": "EVELYN KEISHALOM EMMANUELA",
+      "KELAS": "X-7",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13592,
+      "NAMA": "MOCHAMAD RAIHAN ATHARIQ",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13422,
+      "NAMA": "AURELLIA FAIZAH SASIKIRANA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13545,
+      "NAMA": "JOSHUA RAPHAEL KASIADI",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13546,
+      "NAMA": "JOVICA JOVANKA JOSEPHINE JOCOM",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13548,
+      "NAMA": "JULIA DEBORAH SITORUS",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13549,
+      "NAMA": "KAISAR KRISHNA MAHAPUTRA ROSADI",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13583,
+      "NAMA": "MARCHELANO DAVID BOB JEE LETLORA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13584,
+      "NAMA": "MARCHELLINE CHRISTY PRANATA",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13633,
+      "NAMA": "MUTIARA AGNES VALENTINE MOZES",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13697,
+      "NAMA": "RANDY PUTRA FERDINAN ATAUPAH",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13371,
+      "NAMA": "AISYAH BENING MULIA HATI",
+      "KELAS": "X-2",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13746,
+      "NAMA": "SHERIEN PERMATA WIDI SARAGIH",
+      "KELAS": "X-8",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13386,
+      "NAMA": "ALYA ASTUTI PAMEKAS",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13392,
+      "NAMA": "AMANDA NARISWARI INDRAYANNI",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF G"
+    },
+    {
+      "NIS": 13771,
+      "NAMA": "WYLMA WEEZNAH WARDINARACHMI",
+      "KELAS": "X-9",
+      "KELOMPOK": "ALTERNATIF G"
+    }
+  ]
+}
